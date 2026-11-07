@@ -11,4 +11,4 @@ Small tools | web apps | MoeKoe Music plugins | Nokia2154G | Theoretical Model |
 
 ---
 [![4/6 LGTM Copilot | Vibescale](https://vibescale.github.io/badge/4.svg)](https://vibescale.github.io/#4)  
-Vibecoding is actually a kind of declarative programming that suffers from the flaws of abstraction and uncertainty. 🤓  
+AI-assisted coding is actually a kind of declarative programming that suffers from the flaws of abstraction and uncertainty. 🤓  
